@@ -1,4 +1,4 @@
-<h1 align="center">Helloooooff 👋, I'm Sapumal Bandara</h1>
+<h1 align="center">Helloooossssoff 👋, I'm Sapumal Bandara</h1>
 <h3 align="center">A passionate self taught developer in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapumalb&label=Profile%20views&color=0e75b6&style=flat" alt="sapumalb" /> </p>
