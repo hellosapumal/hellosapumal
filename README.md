@@ -1,5 +1,5 @@
 # 💫 About Me:
-Helloo!, I'm Sapumal.<br>a developer and a designer with 4+ years of experience mainly in Cross platform Desktop application development who can adept at all stages of the software development life cycle from requirement gathering to deployment & maintenance.<br>⚡I enjoy creating things that users fall in love with<br>
+Helloo!, I'm Sapumal.<br>a developer and a designer with 5+ years of experience mainly in Cross platform Desktop application development who can adept at all stages of the software development life cycle from requirement gathering to deployment & maintenance.<br><br>⚡I enjoy creating things that users fall in love with... <br>
 
 
 ## 🌐 Socials:
