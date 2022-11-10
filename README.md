@@ -10,5 +10,3 @@ Helloo!, I'm Sapumal.<br>a developer and a designer with 5+ years of experience 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hellosapumal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hellosapumal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hellosapumal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
